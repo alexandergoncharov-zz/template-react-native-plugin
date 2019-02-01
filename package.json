@@ -1,8 +1,7 @@
-
 {
-  "name": "react-native-test-package",
+  "name": "template-react-native-plugin",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Getting started",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +10,17 @@
     "react-native"
   ],
   "author": "",
-  "license": "",
+  "license": "ISC",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandergoncharov/template-react-native-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandergoncharov/template-react-native-plugin/issues"
+  },
+  "homepage": "https://github.com/alexandergoncharov/template-react-native-plugin#readme"
 }
